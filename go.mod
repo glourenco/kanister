@@ -1,4 +1,4 @@
-module github.com/kanisterio/kanister
+module github.com/glourenco/kanister
 
 go 1.12
 
